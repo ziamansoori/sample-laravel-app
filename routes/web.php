@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    echo "This is sample LAravel Application";
+    echo "TThis Time I have deployed it via github";
 });
